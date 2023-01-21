@@ -6,6 +6,9 @@ body{
 .bg-color-name-tittle{
     background-color: #676767;   
 }
+.bg-color-three-reasons{
+    background-color: #d1cfcf;
+}
 /* nav itrems */
 .ui-menu-color-home {
     background-color:rgb(66, 65, 65);
@@ -133,6 +136,26 @@ letter-spacing: 2px;
     text-align: center;
     font-size: 1.2rem;
 }
+.inline-block{
+    color: #d1cfcf;
+    display: inline-block;
+    
+}
+.row-table {
+    display: table;
+
+}
+.section-column{
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+.section-heading{
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
 .cv-pdf i {
     font-size: 18px;
     color:rgb(180, 170, 170);
@@ -174,4 +197,15 @@ letter-spacing: 2px;
 #footer-details{
     padding: 20px;
     
+}
+/* -------------------------------------------three reasons */
+.three-reasons-icon {
+    font-size: 26px;
+    color: #676767;
+}
+.three-reasons-headind{
+    margin-bottom: 15px;
+}
+.container-fluid {
+    color: #676767;
 }
